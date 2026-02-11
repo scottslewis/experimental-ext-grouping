@@ -47,8 +47,8 @@ See [problem-statement.md](docs/problem-statement.md) for full details.
 | Role | Name        | Organization                                               | GitHub                                         |
 | :--- |:------------|:-----------------------------------------------------------|:-----------------------------------------------|
 | Facilitator | Tapan Chugh | CS PhD student at University of Washington                 | [@chughtapan](https://github.com/chughtapan) |
-| Maintainer | Cliff Hall  | Futurescale / MCP Maintainer                               | [@cliffhall](https://github.com/cliffhall)     |
 | Facilitator | Sam Morrow  | Senior Software Engineer at GitHub                         | [@SamMorrowDrums](https://github.com/SamMorrowDrums)     |
+| Maintainer | Cliff Hall  | Futurescale / MCP Maintainer                               | [@cliffhall](https://github.com/cliffhall)     |
 
 ## Lifecycle
 
