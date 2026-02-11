@@ -27,7 +27,7 @@ Flat lists of MCP primitives can be long and cumbersome to work with.
 - **Costly operation** - Long lists can consume many tokens, leading to higher costs for users.
 - **Poor developer experience** — Lack of organizational tools for primitives makes them harder to manage and maintain
 
-See [problem-statement.md](docs/problem-statement.md) for full details.
+See the [Problem Statement](docs/problem-statement.md) for full details.
 
 ## Repository Contents
 
