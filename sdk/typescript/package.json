@@ -1,5 +1,5 @@
 {
-    "name": "@anthropic/ext-grouping",
+    "name": "@modelcontextprotocol/ext-grouping",
     "version": "0.1.0",
     "description": "MCP Grouping Extension — organize tools, prompts, and resources into named groups",
     "type": "module",
