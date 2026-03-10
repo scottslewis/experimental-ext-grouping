@@ -13,7 +13,7 @@ Use Cases |
 
 [Use Cases Public Discussion #1772](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/1772)
 
-Use-Cases Curated from Discussion #1567 (Each link should refer to a specific comment #1567)
+Use-Cases Curated from Discussion #1567 (Each link should refer to a specific comment within #1567)
 
 [Server Governance](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/1567#discussioncomment-14895158)
 
