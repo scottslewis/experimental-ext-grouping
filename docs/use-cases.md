@@ -7,7 +7,7 @@ Use Cases |
 [Related Work](related-work.md) |
 [Contributing](../CONTRIBUTING.md) 
 
-[Community-provided use cases](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/177)
+[Community-provided use cases](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions/1772)
 
 Other Community-Provided Use Cases from Other Discussions
 
